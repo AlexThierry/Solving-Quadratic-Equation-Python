@@ -1,4 +1,4 @@
-# Solving Quadratic Equation  
+# Solving Quadratic Equation  with Python
 
 Author : **Alex Thierry**
 
